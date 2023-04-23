@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+    body{
+        background-image:url('kl.jpg');
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:cover;
+    }
+    </style>
+    </head>
+    <h1 style="color:black;">SANDHIYA.K RESUME</h1>
+    <p><i style="font-size:21px;color:black;">Welcome to my online home!As a software engineer
+    ,I'm thrilled to share my skills with you.Through this website,you'll get to know me on a 
+personal and professional level, and see how my qualifications and achivements make 
+me the right fit for you company.</i></p>
+<a href="file:///C:/Users/sandh/OneDrive/Desktop/fly.html">
+<button style="font-size:25px;color:red;">View My Resume</button></a>
+
+
+
+</html>
